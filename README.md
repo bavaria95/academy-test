@@ -16,7 +16,7 @@ How to proceed with tasks:
 1. Fork the project 
 2. Change or add the code to meet the requirements
 3. For each task create one commit with proper description
-4. In case of any questions please create an issue on Guthub and precisely describe your problem or issue
+4. In case of any questions please create an issue on Github and precisely describe your problem or issue
 
 Test tasks:
 
