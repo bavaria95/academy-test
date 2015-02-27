@@ -1,7 +1,7 @@
 FactoryGirl.define do
   factory :city do
-    name "MyString"
-short_name "MyString"
+    name "San Francisco"
+	short_name "SF"
   end
 
 end
